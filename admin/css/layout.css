@@ -9,6 +9,17 @@ body {
   font-size: 14px;
   padding: 0;
 }
+
+.success {
+	color: green;
+	font-weight: bold;
+	font-size: 18px;
+}
+.error {
+	color: red;
+	font-weight: bold;
+	font-size: 18px;
+}
 /* commons
 ----------------------------------------------- */
 .floatleft{float:left;}

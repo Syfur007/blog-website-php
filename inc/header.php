@@ -20,7 +20,7 @@ $fm = new Format();
 		  if ($gettitle) {
          while ($result = $gettitle->fetch_assoc()) {  ?>
 
-	<title><?php echo $result['name']?>-<?php echo TITLE?></title>
+	<title><?php echo $result['name']?> - <?php echo TITLE?></title>
 
 	 <?php  } }  } elseif (isset($_GET['id'])) {
 		  $postid = $_GET['id'];
@@ -29,17 +29,17 @@ $fm = new Format();
 		  if ($postID) {
          while ($result = $postID->fetch_assoc()) {  ?>
 
-	<title><?php echo $result['title']?>-<?php echo TITLE?></title>
+	<title><?php echo $result['title']?> - <?php echo TITLE?></title>
 
 	 <?php  } }   }else{ ?>
 	 
-		 	<title><?php echo $fm->title() ?>-<?php echo TITLE?></title>
+		 	<title><?php echo $fm->title() ?> - <?php echo TITLE?></title>
 		 <?php } ?>		 
 	
 	<meta name="language" content="English">
 	<meta name="description" content="It is a website about education">
 	<meta name="keywords" content="blog,cms blog">
-	<meta name="author" content="Delowar">
+	<meta name="author" content="Syfur">
 	<link rel="stylesheet" href="font-awesome-4.5.0/css/font-awesome.css">	
 	<link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="style.css">

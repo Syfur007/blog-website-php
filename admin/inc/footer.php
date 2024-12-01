@@ -5,7 +5,7 @@
     </div>
     <div id="site_info">
         <p>
-         &copy; Copyright Anowar J Radwan All Rights Reserved.
+         &copy; Copyright Syfur Rahman | All Rights Reserved.
         </p>
     </div>
 </body>

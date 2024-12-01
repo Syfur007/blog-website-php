@@ -36,6 +36,7 @@ $fm = new Format();
 		 	<title><?php echo $fm->title() ?> - <?php echo TITLE?></title>
 		 <?php } ?>		 
 	
+	<link rel="icon" href="images/fav.png" type="image/x-icon">
 	<meta name="language" content="English">
 	<meta name="description" content="It is a website about education">
 	<meta name="keywords" content="blog,cms blog">

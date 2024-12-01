@@ -11,12 +11,11 @@
 			<th>NO</th>
 			<th> Title</th>
 			<th> Description</th>
-			<th> Category</th>
 			<th> Image</th>
 			<th> Author</th>
 			<th> Tags</th>
 			<th> Date</th>
-			<th>Action</th>	 
+			<th rowspan="2">Action</th>	 
 		</tr>
 	</thead>
 	<tbody>

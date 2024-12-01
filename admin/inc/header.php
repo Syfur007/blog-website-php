@@ -27,7 +27,7 @@
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title> Admin</title>
+<title>Admin Panel</title>
 <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="css/text.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="css/grid.css" media="screen" />
